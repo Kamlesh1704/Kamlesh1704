@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif" >
+<img align="right" alt="coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/boy-coding-on-laptop-9285146-7581145.png" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamlesh1704&label=Profile%20views&color=0e75b6&style=flat" alt="kamlesh1704" /> </p>
 
 - 🌱 I’m currently learning **full stack development**
