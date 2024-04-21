@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **kamleshchandel17@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/kamle/OneDrive/Desktop/resume_kamlesh.pdf](file:///C:/Users/kamle/OneDrive/Desktop/resume_kamlesh.pdf)
-
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
